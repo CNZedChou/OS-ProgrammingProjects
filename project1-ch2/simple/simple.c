@@ -21,5 +21,5 @@ module_exit( simple_exit );
 
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Simple Module");
-MODULE_AUTHOR("SGG");
+MODULE_AUTHOR("ZedChou");
 
